@@ -1,24 +1,60 @@
 .page {
-  width:
-  height:
+  width: 540px;
+  height: 900px;
+  background-color: #D3D0CB
 }
 
 #article_title {
-
+  font-family: 'Anton', sans-serif;
+  font-size: 40px;
+  margin-top: 0px;
+  word-spacing: 3px;
+  letter-spacing: 7px;
+  padding-left: 22px;
+  padding-top: 22px;
+  color: #461220;
 }
 
 #intro {
-
+  font-family: 'Oswald', sans-serif;
+  font-size: 22px;
+  line-height: 45px;
+  padding-left: 22px;
+  padding-right: 20px;
+  word-spacing: 1px;
+  color: #8C2F39
 }
 
 .question{
-
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  color: #4C5760;
+  padding-left: 15px;
+  margin-bottom: 2px;
 }
 
 .answer{
-
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
+  color: #4C5760;
+  padding-left: 15px;
+  margin-top: 1px;
 }
 
 #block_quote {
-
+  font-family: 'Oswald', sans-serif;
+  font-size: 27px;
+  color: #8C2F39;
+  text-shadow: 2px 2px gray;
+  margin-left: 100px;
+  padding-left: 10px;
+  margin-right: 110px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  border-width: 2px;
+  border-left-style: solid;
+  border-left-color: #4C5760;
+  box-shadow: 1px 5px 5px darkred;
+  border-radius: 10px;
 }

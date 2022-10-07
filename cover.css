@@ -2,7 +2,7 @@
   width: 350px;
   height: 500px;
   /* finish your styling of the cover div here! */
-  background-color: gray;
+  background-color: rgb(174, 175, 169)
 }
 #title {
   text-align: center;
@@ -10,17 +10,22 @@
   color:black;
   font-family: 'Source Code Pro', monospace;
   padding-top: 40px;
+  margin-bottom: 10px;
 }
 
 #subtitle {
   text-align: center;
-  font-size: 15px;
+  font-size: 20px;
   color:aqua;
   font-family: Arial;
-  padding-left: 65px;
+  font-size: 13px;
+  padding-left: 95px;
   opacity: 0.5;
 }
 
 #cover_image {
-
+  padding-top: 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
